@@ -17,4 +17,5 @@ tags
 *.swp
 
 example/server/server
+example/server-any-command/server-any-command
 example/client/client
